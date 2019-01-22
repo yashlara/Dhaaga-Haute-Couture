@@ -1,0 +1,889 @@
+@media screen and (max-width: 1400px) {
+    header{
+        position: sticky;
+    }
+    #dhaaga_blogNavigation{
+        background-color: rgba(19,35,47,0.9);
+        background-position: cover; 
+        position: relative;
+        padding-bottom: 2vw;
+        height: 6vw;
+    }
+    #logo_img{
+        width: 30vw;
+        height: 10vw;
+        margin-top: 3vw;
+        margin-left: 32.5vw;
+    }
+    #sectionLeftList{
+        float:left;
+        clear: both;
+        margin-left: -4vw;
+
+    }
+    #sectionLeft{
+        padding:3vw;
+        padding-top: 2vw;
+    }
+    ol ul li{    
+        list-style: none;
+        font-size: 1.5vw;
+    }
+    #dhaaga_blogNavigation  ul li {
+        border: none;
+        color:white;
+        font-size: 1.7vw;
+    }
+    #sectionLeftList li {
+        display: inline-block;
+        margin-right: 1.5vw;
+        position: relative;
+    }
+    a, a:visited{
+        color:white;
+        text-decoration: none;
+    }
+    #sectionLeftList a:hover, a:active { 
+        color: #e1c1c6;
+        text-decoration: none;
+    }
+
+    #navIcons{
+        margin-top: 2vw;
+        float: right;
+
+    }
+    #blogSerach{
+        float:right;
+    }
+    #sectionRightList{
+        float: right;
+    }
+    .resize_icon{
+        color: white;
+        padding:0.3vw;
+    }
+    #lastIcon{
+        margin-right: 1vw;
+    }
+    .content{
+        margin:5vw; 
+        border: 0.3vw solid #e1c1c6;
+        height: 95vw;
+        position: relative;
+    }
+    .sectionHeadings{
+        padding-bottom: 1vw;
+        /* font-weight: bold; */
+        font-size: 2.5vw;
+        font-family: 'Open Sans';
+    }
+    #coversHeading{
+        margin-top: 2vw;
+    }
+    #article1{
+        margin:5vw; 
+        margin-right: 4vw;
+        margin-top: 3vw;
+        height: 35vw;
+        width:23vw;
+        padding-left: 3.8vw;
+        float: left;
+        clear:both;
+    }
+    #article2{
+        margin:5vw; 
+        margin-left: 0vw;
+        margin-top: 3vw;
+        height: 44vw;
+        width:23vw;
+        padding-left: 1.9vw;
+        float: left;
+    }
+    #article3{
+        margin-left:5vw; 
+        margin-top: -10vw;
+        margin-right: 4vw;
+        height: 35vw;
+        width:23vw;
+        padding-left: 3.8vw;
+        float: left;
+        clear:both;
+    }
+    #article4{
+        margin-top: -1vw;
+        margin-left: 0vw;
+        margin-right: 3vw;
+       
+        padding-left: 1.9vw;
+        height: 35vw;
+        width:23vw;
+        float: left;
+    }
+    #article5{
+        margin-top: -83vw;
+        margin-left: 59vw;
+        height: 35vw;
+        width: 23vw;
+        float: left;
+        clear: both;
+
+    }
+    #article6{
+        margin-top: -44vw;
+        margin-left: 59vw;
+        height: 35vw;
+        width: 23vw;
+        float: left;
+        clear: both;
+    }
+    
+    .articleImgCaption{
+        font-weight: bold;
+        font-size: 1.5vw;
+    }
+    img{
+        height: 26.9vw;
+        width: 19.2vw;
+    }
+    .subscriptionForm{
+        background-color: #fdefc5;
+        height: 35vw;
+        width: 40vw;
+        margin-left: 6vw;
+        margin-top: -2vw;
+        float:left;
+    }
+    
+    #subscriptionHeading{
+        margin-top: -1vw;
+    }
+    p{
+        font-size: 1.2vw;
+    }
+    #formResize{
+        margin: 5vw;
+    }
+    #subscribeButton{
+        background-color: #e3ab00;
+        width:20vw;
+        height: 3.5vw;
+        padding: 0.3;
+        margin-top: 1.2vw;
+        font-size: 1.5vw;
+    }
+    
+    .stats{
+        position: relative;
+        height: 35vw;
+        width: 42vw;
+        border: 0.3vw solid #e3ab00;
+        float:left;
+        margin-left: 4.5vw;
+        margin-top: -2vw;
+    }
+    .statSize{
+        width: 16vw;
+        height: 14vw;
+        border: 0.3vw solid  #e3ab00;
+        position: absolute;
+        margin: 2.5vw;    
+    }
+    #stat1{
+        margin-left: 4.2vw;
+    }
+    #stat2{
+        margin-left: 23.5vw;
+    }
+    #stat3{
+        margin-left: 4.2vw;
+        margin-top: 18.5vw;
+    }
+    #stat4{
+        margin-left: 23.5vw;
+        margin-top: 18.5vw;
+    }
+    .labelResize{
+        font-size:1.2vw;
+    }
+    .inputResize{
+        width:30vw;
+        height:2.5vw;
+        margin-bottom: -1vw;
+    }
+    #goodAt{
+        height: 38vw;
+        width: 87vw;
+        border: 0.3vw solid #e1c1c6;
+        margin-left: 4.5vw;
+        margin-top: 4vw;
+    }
+    #goodAtHeading{
+        padding-top: 2vw;
+       
+    }
+    .fieldResize{
+        width: 18vw;
+        height: 26vw;
+        overflow: hidden;
+
+    }
+    
+    .statsHeadings{
+        margin-top: 2vw;
+        padding-bottom: 1vw;
+        font-weight: bold;
+        font-size: 1.5vw;
+    }
+    .statNum{
+        font-weight: bold;
+        font-size: 2.5vw;
+    }
+    #field1{
+        float: left;
+        margin-left: 4vw;
+    }
+    #field2{
+        float: left;
+        margin-left: 3vw;
+    }
+    #field3{
+        float: left;
+        margin-left: 3vw;
+    }
+    #field4{
+        float: left;
+        margin-left: 3vw;
+    }
+    .fieldImgResize{
+        width: 18vw;
+        height: 26vw;
+    }
+    .fieldImgResize:hover{
+        transform: scale(1.2);
+        transition: all .5s;
+    }
+    .imgDescription{
+        position: absolute;
+        margin-top: -9vw;
+        margin-left: -4.3vw;
+        font-size: 2vw;
+        font-weight: bold;
+        opacity: 0.5;
+        transform: rotate(90deg);
+    }
+    #worldMapDiv{
+        margin-left: 4.5vw;
+        margin-top: 2vw;
+    }
+    #deliverHeading{
+        padding-top: 1.5vw;
+        color: #e3ab00;
+    }
+    #worldMapImg{
+        
+        height: 35vw;
+        width: 87vw;
+    }
+    #antiquityLogoImg{
+        width: 7vw;
+        height: 2vw;
+    }
+    
+}
+
+
+@media screen and (max-width: 991px) {
+    header{
+        position: sticky;
+    }
+    #dhaaga_blogNavigation{
+        background-color: rgba(19,35,47,0.9);
+        background-position: cover; 
+        position: relative;
+        padding-bottom: 2vw;
+        height: 6vw;
+    }
+    #logo_img{
+        width: 30vw;
+        height: 10vw;
+        margin-top: 3vw;
+        margin-left: 32.5vw;
+    }
+    #sectionLeftList{
+        float:left;
+        clear: both;
+        margin-left: -4vw;
+
+    }
+    #sectionLeft{
+        padding:2vw;
+        
+    }
+    ol ul li{    
+        list-style: none;
+        font-size: 1.5vw;
+    }
+    #dhaaga_blogNavigation  ul li {
+        border: none;
+        color:white;
+        font-size: 1.7vw;
+    }
+    #sectionLeftList li {
+        display: inline-block;
+        margin-right: 1.5vw;
+        position: relative;
+    }
+    a, a:visited{
+        color:white;
+        text-decoration: none;
+    }
+    #sectionLeftList a:hover, a:active { 
+        color: #e1c1c6;
+        text-decoration: none;
+    }
+    #navIcons{
+        margin-top: -2vw;
+        float: right;
+    
+    }
+    #blogSerach{
+        float:right;
+    }
+    #sectionRightList{
+        float: right;
+    }
+    .resize_icon{
+        color: white;
+        padding:0.3;
+    }
+    #lastIcon{
+        margin-right: 1vw;
+    }
+    .content{
+        margin:5vw; 
+        border: 0.3vw solid #e1c1c6;
+        height: 95vw;
+        position: relative;
+    }
+    .sectionHeadings{
+        padding-bottom: 1vw;
+        /* font-weight: bold; */
+        font-size: 2.5vw;
+        font-family: 'Open Sans';
+    }
+    #coversHeading{
+        margin-top: 2vw;
+    }
+    #article1{
+        margin:5vw; 
+        margin-right: 4vw;
+        margin-top: 3vw;
+        height: 35vw;
+        width:23vw;
+        padding-left: 3.8vw;
+        float: left;
+        clear:both;
+    }
+    #article2{
+        margin:5vw; 
+        margin-left: 0vw;
+        margin-top: 3vw;
+        height: 44vw;
+        width:23vw;
+        padding-left: 1.9vw;
+        float: left;
+    }
+    #article3{
+        margin-left:5vw; 
+        margin-top: -10vw;
+        margin-right: 4vw;
+        height: 35vw;
+        width:23vw;
+        padding-left: 3.8vw;
+        float: left;
+        clear:both;
+    }
+    #article4{
+        margin-top: -1vw;
+        margin-left: 0vw;
+        margin-right: 3vw;
+       
+        padding-left: 1.9vw;
+        height: 35vw;
+        width:23vw;
+        float: left;
+    }
+    #article5{
+        margin-top: -83vw;
+        margin-left: 59vw;
+        height: 35vw;
+        width: 23vw;
+        float: left;
+        clear: both;
+
+    }
+    #article6{
+        margin-top: -44vw;
+        margin-left: 59vw;
+        height: 35vw;
+        width: 23vw;
+        float: left;
+        clear: both;
+    }
+    
+    .articleImgCaption{
+        font-weight: bold;
+        font-size: 1.5vw;
+    }
+    img{
+        height: 26.9vw;
+        width: 19.2vw;
+    }
+    .subscriptionForm{
+        background-color: #fdefc5;
+        height: 35vw;
+        width: 40vw;
+        margin-left: 6vw;
+        margin-top: -2vw;
+        float:left;
+    }
+    
+    #subscriptionHeading{
+        margin-top: -1vw;
+    }
+    p{
+        font-size: 1.2vw;
+    }
+    #formResize{
+        margin: 5vw;
+    }
+    .form-group {
+        margin-bottom: 0vw;
+    }
+    #subscribeButton{
+        background-color: #e3ab00;
+        width: 20vw;
+        height: 3.5vw;
+        padding: 0.3vw;
+        margin-top: 2.2vw;
+        font-size: 1.5vw;
+    }
+    .stats{
+        position: relative;
+        height: 35vw;
+        width: 42vw;
+        border: 0.3vw solid #e3ab00;
+        float:left;
+        margin-left: 4.5vw;
+        margin-top: -2vw;
+    }
+    .statSize{
+        width: 16vw;
+        height: 14vw;
+        border: 0.3vw solid  #e3ab00;
+        position: absolute;
+        margin: 2.5vw;    
+    }
+    #stat1{
+        margin-left: 5.2vw;
+    }
+    #stat2{
+        margin-left: 24.5vw;
+    }
+    #stat3{
+        margin-left: 5.2vw;
+        margin-top: 18.5vw;
+    }
+    #stat4{
+        margin-left: 24.5vw;
+        margin-top: 18.5vw;
+    }
+    .labelResize{
+        font-size:1.2vw;
+    }
+    .inputResize{
+        width:30vw;
+        height:2.5vw;
+        margin-bottom: -1vw;
+    }
+    #goodAt{
+        height: 38vw;
+        width: 87vw;
+        border: 0.3vw solid #e1c1c6;
+        margin-left: 4.5vw;
+        margin-top: 4vw;
+    }
+    #goodAtHeading{
+        padding-top: 2vw;
+       
+    }
+    .fieldResize{
+        width: 18vw;
+        height: 26vw;
+        overflow: hidden;
+
+    }
+    
+    .statsHeadings{
+        margin-top: 2vw;
+        padding-bottom: 1vw;
+        font-weight: bold;
+        font-size: 1.5vw;
+    }
+    .statNum{
+        font-weight: bold;
+        font-size: 2.5vw;
+    }
+    #field1{
+        float: left;
+        margin-left: 4vw;
+    }
+    #field2{
+        float: left;
+        margin-left: 3vw;
+    }
+    #field3{
+        float: left;
+        margin-left: 3vw;
+    }
+    #field4{
+        float: left;
+        margin-left: 3vw;
+    }
+    .fieldImgResize{
+        width: 18vw;
+        height: 26vw;
+    }
+    .fieldImgResize:hover{
+        transform: scale(1.2);
+        transition: all .5s;
+    }
+    .imgDescription{
+        position: absolute;
+        margin-top: -9vw;
+        margin-left: -4.3vw;
+        font-size: 2.5vw;
+        font-weight: bold;
+        opacity: 0.5;
+        transform: rotate(90deg);
+    }
+    #worldMapDiv{
+        margin-left: 4.5vw;
+        margin-top: 2vw;
+    }
+    #deliverHeading{
+        padding-top: 1.5vw;
+        color: #e3ab00;
+    }
+    #worldMapImg{
+        
+        height: 35vw;
+        width: 87vw;
+    }
+    #antiquityLogoImg{
+        width: 7vw;
+        height: 2vw;
+    }
+}
+
+@media screen and (max-width: 520px) {
+    header{
+        position: sticky;
+    }
+    #dhaaga_blogNavigation{
+        background-color: rgba(19,35,47,0.9);
+        background-position: cover; 
+        position: relative;
+        padding-bottom: 2vw;
+        height: 6vw;
+    }
+    #logo_img{
+        width: 30vw;
+        height: 10vw;
+        margin-top: 3vw;
+        margin-left: 32.5vw;
+    }
+    #sectionLeftList{
+        float:left;
+        clear: both;
+        margin-left: -4vw;
+
+    }
+    #sectionLeft{
+        padding: 1vw;
+    }
+    ol ul li{    
+        list-style: none;
+        font-size: 1.5vw;
+    }
+    #dhaaga_blogNavigation  ul li {
+        border: none;
+        color:white;
+        font-size: 1.7vw;
+    }
+    #sectionLeftList li {
+        display: inline-block;
+        margin-right: 1.5vw;
+        position: relative;
+    }
+    a, a:visited{
+        color:white;
+        text-decoration: none;
+    }
+    #sectionLeftList a:hover, a:active { 
+        color: #e1c1c6;
+        text-decoration: none;
+    }
+    #navIcons{
+        margin-top: -1vw;
+        float: right;
+    
+    }
+    #blogSerach{
+        float:right;
+    }
+    #sectionRightList{
+        float: right;
+    }
+    .resize_icon{
+        color: white;
+        padding:0.3;
+    }
+    #lastIcon{
+        margin-right: 1vw;
+    }
+    .content{
+        margin:5vw; 
+        border: 0.3vw solid #e1c1c6;
+        height: 95vw;
+        position: relative;
+    }
+    .sectionHeadings{
+        padding-bottom: 1vw;
+        /* font-weight: bold; */
+        font-size: 2.5vw;
+        font-family: 'Open Sans';
+    }
+    #coversHeading{
+        margin-top: 2vw;
+    }
+    #article1{
+        margin:5vw; 
+        margin-right: 4vw;
+        margin-top: 3vw;
+        height: 35vw;
+        width:23vw;
+        padding-left: 3.8vw;
+        float: left;
+        clear:both;
+    }
+    #article2{
+        margin:5vw; 
+        margin-left: 0vw;
+        margin-top: 3vw;
+        height: 44vw;
+        width:23vw;
+        padding-left: 1.9vw;
+        float: left;
+    }
+    #article3{
+        margin-left:5vw; 
+        margin-top: -10vw;
+        margin-right: 4vw;
+        height: 35vw;
+        width:23vw;
+        padding-left: 3.8vw;
+        float: left;
+        clear:both;
+    }
+    #article4{
+        margin-top: -1vw;
+        margin-left: 0vw;
+        margin-right: 3vw;
+       
+        padding-left: 1.9vw;
+        height: 35vw;
+        width:23vw;
+        float: left;
+    }
+    #article5{
+        margin-top: -83vw;
+        margin-left: 59vw;
+        height: 35vw;
+        width: 23vw;
+        float: left;
+        clear: both;
+
+    }
+    #article6{
+        margin-top: -44vw;
+        margin-left: 59vw;
+        height: 35vw;
+        width: 23vw;
+        float: left;
+        clear: both;
+    }
+    
+    .articleImgCaption{
+        font-weight: bold;
+        font-size: 1.5vw;
+    }
+    img{
+        height: 26.9vw;
+        width: 19.2vw;
+    }
+    .subscriptionForm{
+        background-color: #fdefc5;
+        height: 35vw;
+        width: 40vw;
+        margin-left: 6vw;
+        margin-top: -2vw;
+        float:left;
+    }
+    
+    #subscriptionHeading{
+        margin-top: -1vw;
+    }
+    p{
+        font-size: 1.2vw;
+    }
+    #formResize{
+        margin: 5vw;
+        margin-top: 2vw;
+    }
+    #formResize p{
+        margin: 0 0 0 0;
+    }
+    #formResize label {
+        margin-bottom: 0;
+    }
+    #subscribeButton{
+        background-color: #e3ab00;
+        width:20vw;
+        height: 3.5vw;
+        padding: 0.1vw;
+        margin-top: 1.5vw;
+        font-size: 1.5vw;
+    }
+    .form-group {
+        margin-bottom: 0vw;
+    }
+    .stats{
+        position: relative;
+        height: 35vw;
+        width: 42vw;
+        border: 0.3vw solid #e3ab00;
+        float:left;
+        margin-left: 4.5vw;
+        margin-top: -2vw;
+    }
+    .statSize{
+        width: 16vw;
+        height: 14vw;
+        border: 0.3vw solid  #e3ab00;
+        position: absolute;
+        margin: 2.5vw;    
+    }
+    #stat1{
+        margin-left: 6.2vw;
+    }
+    #stat2{
+        margin-left: 25.5vw;
+    }
+    #stat3{
+        margin-left: 6.2vw;
+        margin-top: 18.5vw;
+    }
+    #stat4{
+        margin-left: 25.5vw;
+        margin-top: 18.5vw;
+    }
+    .labelResize{
+        font-size:1.2vw;
+    }
+    .inputResize{
+        width:30vw;
+        height:2.5vw;
+        margin-bottom: -1vw;
+    }
+    #goodAt{
+        height: 38vw;
+        width: 87vw;
+        border: 0.3vw solid #e1c1c6;
+        margin-left: 4.5vw;
+        margin-top: 4vw;
+    }
+    #goodAtHeading{
+        padding-top: 2vw;
+       
+    }
+    .fieldResize{
+        width: 18vw;
+        height: 26vw;
+        overflow: hidden;
+
+    }
+    
+    .statsHeadings{
+        margin-top: 2vw;
+        padding-bottom: 1vw;
+        font-weight: bold;
+        font-size: 1.5vw;
+    }
+    .statNum{
+        font-weight: bold;
+        font-size: 2.5vw;
+    }
+    #field1{
+        float: left;
+        margin-left: 4vw;
+    }
+    #field2{
+        float: left;
+        margin-left: 3vw;
+    }
+    #field3{
+        float: left;
+        margin-left: 3vw;
+    }
+    #field4{
+        float: left;
+        margin-left: 3vw;
+    }
+    .fieldImgResize{
+        width: 18vw;
+        height: 26vw;
+    }
+    .fieldImgResize:hover{
+        transform: scale(1.2);
+        transition: all .5s;
+    }
+    .imgDescription{
+        position: absolute;
+        margin-top: -9vw;
+        margin-left: -4.3vw;
+        font-size: 2.5vw;
+        font-weight: bold;
+        opacity: 0.5;
+        transform: rotate(90deg);
+    }
+    #worldMapDiv{
+        margin-left: 4.5vw;
+        margin-top: 2vw;
+    }
+    #deliverHeading{
+        padding-top: 1.5vw;
+        color: #e3ab00;
+    }
+    #worldMapImg{
+        
+        height: 35vw;
+        width: 87vw;
+    }
+    #antiquityLogoImg{
+        width: 7vw;
+        height: 2vw;
+    }
+}
+

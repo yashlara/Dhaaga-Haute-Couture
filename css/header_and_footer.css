@@ -1,0 +1,140 @@
+/* header */
+
+.dhaaga_logo{
+    width: 65%;
+}
+
+.dhaaga_headerTopLogos{
+    font-size: 150%;
+    padding: 2%;
+    margin-top: 1%;
+    margin-right: 2%;
+    float: right;
+    color: #c54c55;
+}
+
+.header-bottom-w3ls {
+    background: #e1c1c6;
+	padding:10px 0;
+}
+.navbar-default {
+    border-color: transparent;
+}
+.dropdown-menu ul li {
+    list-style-type: none;
+	text-align:center;
+	padding:7px 0;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    color: #fff;
+    background-color:#c54c55;
+}
+.search-agileinfo input[type="search"] {
+    width: 111%;
+    padding:10px;
+    font-size: 1em;
+    color: #999;
+    outline: none;
+    border: 1px solid #c54c55;
+    background: none;
+    -webkit-appearance: none;
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+}
+.navbar {
+    margin-bottom:0;
+}
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+    color: #fff;
+    background-color:#c54c55;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus{
+	  color:#fff;
+	   background-color:#c54c55;
+}
+.dropdown-menu.multi {
+    min-width: 745px;
+    padding: 30px 30px;
+}
+.multi-column-dropdown li a {
+    display: block;
+    clear: both;
+    line-height: 1.428571429;
+    color: #737373 !important;
+    white-space: normal;
+    font-size: 13px;
+	text-align:left;
+}
+i.fa.fa-angle-right {
+    font-size: 15px;
+    margin-right: 5px;
+}
+.search-agileinfo input[type="search"] {
+	margin-top:5px;
+}
+.search-agileinfo i.fa.fa-search {
+    font-size: 17px;
+	/* color:#fff; */
+}
+button.search {
+    border: none;
+    position: absolute;
+    top: 4px;
+    right: -63px;
+    width: 47px;
+    height: 43px;
+    outline: none;
+    box-shadow: none;
+    background:#c54c55;
+    padding: 0;
+    border-radius: inherit;
+    -webkit-appearance: none;
+    -webkit-transition: .5s all;
+    -moz-transition: .5s all;
+    transition: .5s all;
+}
+.btn-default:hover {
+    background-color:#000;
+    border:none;
+}
+.cart-wthree .fa {
+    font-size: 34px;
+    margin-top: 7px;
+}
+button.w3view-cart {
+    background: transparent;
+    border: none;
+}
+button.w3view-cart:focus{
+	outline:none;
+}
+
+/* footer */
+
+.footers{
+    background-color: #e1c1c6;
+}
+
+.footers a {color:#696969;}
+.footers p {color:#696969;}
+.footers ul {line-height:30px;}
+#social-fb:hover {
+     color: #3B5998;
+     transition:all .001s;
+ }
+ #social-tw:hover {
+     color: #4099FF;
+     transition:all .001s;
+ }
+ #social-gp:hover {
+     color: #d34836;
+     transition:all .001s;
+ }
+ #social-em:hover {
+     color: #f39c12;
+     transition:all .001s;
+ }
+
+ 
