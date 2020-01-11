@@ -290,7 +290,7 @@
         height: 2vw;
     }
     
-}
+/*}*/
 
 
 @media screen and (max-width: 991px) {
@@ -885,5 +885,5 @@
         width: 7vw;
         height: 2vw;
     }
-/* } */
+ } 
 
